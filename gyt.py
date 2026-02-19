@@ -40,3 +40,6 @@ print("Square of 5 is:", result)
 # Interactive input example
 name = input("Enter your name: ")
 print(f"Hello, {name}! Welcome to Jupyter Python.")
+
+
+
